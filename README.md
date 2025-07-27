@@ -9,13 +9,7 @@ This project predicts whether a loan applicant is a **good or bad credit risk** 
 - [Dataset](#-dataset)
 - [Features](#-features)
 - [Modeling](#-modeling)
-- [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
-- [Streamlit App](#-streamlit-app)
-- [Results](#-results)
-- [Tech Stack](#-tech-stack)
-- [Future Improvements](#-future-improvements)
-- [License](#-license)
+
 
 ---
 
