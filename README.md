@@ -56,6 +56,3 @@ The goal is to classify loan applicants as **creditworthy (0)** or **non-creditw
 | CatBoost           | 76%      | 0.59           | Good with categorical features   |
 
 ---
-
-## 📁 Project Structure
-
